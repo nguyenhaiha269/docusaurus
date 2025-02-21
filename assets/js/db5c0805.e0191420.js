@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_site=self.webpackChunkmy_site||[]).push([[764],{8269:s=>{s.exports=JSON.parse('{"tags":[{"label":"day_trung_tinh","permalink":"/docusaurus/docs/tags/day-trung-tinh","count":2}]}')}}]);
