@@ -1,3 +1,12 @@
+title: Tiết diện tối thiểu của dây bảo vệ
+aliases: 
+tags:
+  - day_trung_tinh
+date: 
+url: 
+author: 
+Releated:
+
 ### Bảng 12  Tiết diện tối thiểu của dây bảo vệ (PE)
 
 | **Tiết diện của dây dẫn pha cấp điện cho  thiết bị điện (mm2)** | **Tiết diện tối thiểu của dây dẫn bảo vệ  thiết bị điện (mm2)** |
@@ -8,8 +17,6 @@
 | 400  < S ≤ 800                                                  | 200                                                             |
 | S  > 800                                                        | S/4                                                             |
 [[TCVN9207]] - xem bảng 12
-
-
 
 Tương tự TCVN 7447-5-54-2015 - TƯƠNG TỤ
 ![](https://i.imgur.com/bc54zzw.png)
