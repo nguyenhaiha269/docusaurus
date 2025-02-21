@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_site=self.webpackChunkmy_site||[]).push([[2381],{9542:s=>{s.exports=JSON.parse('{"tag":{"label":"LOA","permalink":"/docusaurus/docs/tags/loa","allTagsPath":"/docusaurus/docs/tags","count":1,"items":[{"id":"TOA","title":"TOA","description":"","permalink":"/docusaurus/docs/TOA"}],"unlisted":false}}')}}]);
